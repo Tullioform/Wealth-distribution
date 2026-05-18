@@ -1,0 +1,12 @@
+requirements
+
+nbconvert
+numpy
+matplotlib
+scipy
+random
+functools
+math
+PIL
+
+No custom environment is necessary
